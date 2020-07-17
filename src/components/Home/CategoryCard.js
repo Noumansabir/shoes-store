@@ -16,7 +16,7 @@ const useStyles = makeStyles((theme) => ({
     },
   },
   media: {
-    height: 160,
+    height: 159,
   },
 
   cardContent: {
