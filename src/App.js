@@ -14,7 +14,7 @@ import { products as mockProducts } from "./utils/mockData";
 import ProductDetailPage from "./pages/ProductDetailPage";
 import HomePage from "./pages/HomePage";
 
- const dataURL = "https://shoe-store-api-bc2020.herokuapp.com/products/";
+ 
 
 const useStyles = makeStyles((theme) => ({
   root: {
