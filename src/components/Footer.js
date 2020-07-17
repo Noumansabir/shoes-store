@@ -2,10 +2,10 @@ import React from "react";
 import Container from "@material-ui/core/Container";
 import Typography from "@material-ui/core/Typography";
 import IconButton from "@material-ui/core/IconButton";
-import { FaFacebookF, FaLinkedin, FaGithub } from "react-icons/fa";
+import { FaFacebookF,  FaGithub } from "react-icons/fa";
 import { makeStyles } from "@material-ui/core/styles";
 import Link from "@material-ui/core/Link";
-import { facebookURL, linkedInURL, githubURL } from "../utils/social";
+import { facebookURL,  githubURL } from "../utils/social";
 
 const useStyles = makeStyles((theme) => ({
   footer: {
